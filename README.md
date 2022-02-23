@@ -1,10 +1,10 @@
-### Olá, seja bem-vindo(a) !
+# Olá, seja bem-vindo(a) !
 
 Amante da arte da programação e seu próximo desenvolvedor 😉!
 
 Me encontro atualmente em formação **Fullstack** pela [Driven Education](https://www.driven.com.br/)
  
- ### 🔧 Ferramentas
+ ## 🔧 Ferramentas
   - HTML
   - CSS
   - JAVASCRIPT
