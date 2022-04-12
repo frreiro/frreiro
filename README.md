@@ -1,5 +1,6 @@
 
-<h1 align="center"> --- Hello World, seja bem-vindo ✌️ --- </h1>
+<!-- <h1 align="center"> --- Hello World, seja bem-vindo ✌️ --- </h1> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=35&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&lines=Hello+World+!;Seja+bem-vindo+(a)+)](https://git.io/typing-svg)
 
 <div align="center">
  <p>Sou Lucas Viana, apaixonado pela arte de desenvolvimento.
