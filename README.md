@@ -14,12 +14,9 @@
    <h2> - Github Stats</h2>
  </div>
  
- <div>
+ <div align="center">
    <a href="https://github.com/frreiro">
    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=frreiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/frreiro">
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frreiro&layout=compact&langs_count=7&theme=github_dark&count_private=true"/>
   </a>
  </div>
 
@@ -45,6 +42,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
    <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
  
  ##
