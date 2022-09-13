@@ -57,7 +57,5 @@
  
  
   ![Snake animation](https://github.com/frreiro/frreiro/blob/output/github-contribution-grid-snake.svg)
- 
-  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=frreiro&layout=compact&langs_count=7&theme=react-dark"/>
   
 </div>
