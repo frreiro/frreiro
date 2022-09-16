@@ -48,8 +48,6 @@
  ##
  
  <div align="center" style="display:flex; align-items: flex-start; justify-content: space-between"></br>
-  <a href="https://instagram.com/frreiro" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lucasvfv@gmail.com">
    <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-viana-a37938236/" target="_blank">
