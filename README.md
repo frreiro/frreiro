@@ -5,7 +5,7 @@
 <div align="center">
  <p>Sou Lucas Viana, apaixonado pela arte de desenvolvimento.
   <br/>Dê uma olhadinha nos meus repositórios, está cheio de coisa bacana
- <br/>Atualmente em formação <strong>Fullstack</strong> pela <em><a href="https://www.driven.com.br/">Driven Education</a></em>
+ <br/>Desenvolvedor <strong>Web Fullstack</strong> 
  </p>
 </div>
 
@@ -57,8 +57,5 @@
    <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-viana-a37938236/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-  ![Snake animation](https://github.com/frreiro/frreiro/blob/output/github-contribution-grid-snake.svg)
   
 </div>
