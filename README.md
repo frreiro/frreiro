@@ -1,5 +1,5 @@
 
-<!-- <h1 align="center"> --- Hello World, seja bem-vindo ✌️ --- </h1> -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=70&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=150&lines=Hello+World+!;Seja+bem-vindo+(a))](https://git.io/typing-svg)
 
 <div align="center">
@@ -38,7 +38,6 @@
  
  <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=frreiro&show_icons=true&&theme=tokyonight&hide_border=true">
- <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=frreiro&theme=tokyonight&hide_border=true"> 
 </div>
 
 ## 
@@ -62,24 +61,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ### ⚒️ Minha stack
+  ### ⚒️ Stack
 -   _**Linguagens**_
     <p>
       <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
