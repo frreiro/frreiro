@@ -23,7 +23,7 @@
        nome: "Lucas Viana",
        idade: 22,
        pronome: "he/him",
-       profissao: "Desenvolvedor Web Full Stack",
+       profissao: "Desenvolvedor Full Stack",
        escola: "Driven Education",
        endereco: "Volta Redonda-RJ",
        hobbies: "ouvir musica, pedalar e aprender",
