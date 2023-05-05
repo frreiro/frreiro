@@ -49,7 +49,7 @@
 
  
 ## 
-### 📱 Contato
+### 📱 Contato e Social
 
  
  <div>
@@ -59,6 +59,8 @@
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/ferreirodev/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://medium.com/@frreiro" target="_blank">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
 </div>
 
 
