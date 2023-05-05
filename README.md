@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=70&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=150&lines=Hello+World+!;Seja+bem-vindo+(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=70&color=247f81&background=FFFFFF00&center=true&vCenter=true&width=1000&height=150&lines=Hello+World+!;Seja+bem-vindo+(a))](https://git.io/typing-svg)
 
 <div align="center">
  <samp>Sou Lucas Viana, apaixonado pela arte de desenvolvimento.
@@ -13,7 +13,7 @@
  &nbsp;
 
 <div>
- <a href="https://open.spotify.com/user/31qidjczxezjyrswmiz5effofmai"><img width="200px" align="right" alt="Lucas-spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31qidjczxezjyrswmiz5effofmai&cover_image=true&theme=default&show_offline=false&background_color=575757&interchange=false&bar_color=2ebd37&bar_color_cover=true"/></a>
+ <a href="https://open.spotify.com/user/31qidjczxezjyrswmiz5effofmai"><img width="200px" align="right" alt="Lucas-spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31qidjczxezjyrswmiz5effofmai&cover_image=true&theme=default&show_offline=false&background_color=1D6667&interchange=false&bar_color=2ebd37&bar_color_cover=true"/></a>
  </div>
 
    ```js
