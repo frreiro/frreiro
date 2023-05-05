@@ -128,6 +128,7 @@
     <img alt="Trello" src="https://img.shields.io/static/v1?message=Trello&logo=Trello&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=for-the-badge">
     <img alt="Slack" src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
     <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
+     <img alt="Android Studio" src="https://img.shields.io/static/v1?message=Android Studio&logo=Android&labelColor=56DF86&color=56DF86&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
 -   _**Sistemas operacionais**_
