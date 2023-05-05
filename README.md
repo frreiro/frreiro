@@ -13,8 +13,9 @@
  &nbsp;
 
 <div>
- <a href="https://open.spotify.com/user/31qidjczxezjyrswmiz5effofmai"><img width="200px" align="right" alt="Lucas-spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31qidjczxezjyrswmiz5effofmai&cover_image=true&theme=default&show_offline=false&background_color=1D6667&interchange=false&bar_color=2ebd37&bar_color_cover=true"/></a>
+ <a href="https://open.spotify.com/user/31qidjczxezjyrswmiz5effofmai"><img width="190px" align="right" alt="Lucas-spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31qidjczxezjyrswmiz5effofmai&cover_image=true&theme=default&show_offline=false&background_color=1D6667&interchange=false&bar_color=2ebd37&bar_color_cover=true"/></a>
  </div>
+
 
    ```js
    import Developer from "./world.js"
@@ -29,6 +30,8 @@
        hobbies: "ouvir musica, pedalar e aprender",
        funfact: "Fã de um pagode"
    }) 
+   
+  
    ```
 
 &nbsp;
