@@ -5,7 +5,6 @@
 <div align="center">
  <samp>Sou Lucas Viana, apaixonado pela arte de desenvolvimento.
   <br/>Dê uma olhadinha nos meus repositórios, está cheio de coisa bacana
- <br/>Desenvolvedor <strong>Web Fullstack</strong> 
  </samp>
 </div>
 
