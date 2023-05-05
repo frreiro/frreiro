@@ -36,8 +36,10 @@
 ## 
 ### 📊 Status do GitHub
  
- <div>
+ <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=frreiro&show_icons=true&&theme=tokyonight&hide_border=true">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a align="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frreiro&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=10" alt="frreiro" /></a>
 </div>
 
 ## 
