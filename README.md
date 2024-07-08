@@ -3,18 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=70&color=247f81&background=FFFFFF00&center=true&vCenter=true&width=1000&height=150&lines=Hello+World+!;Seja+bem-vindo+(a))](https://git.io/typing-svg)
 
 <div align="center">
- <samp>Sou Lucas Viana, apaixonado pela arte de desenvolvimento.
+ <samp>Sou Lucas Viana, apaixonado por tecnologia.
   <br/>Dê uma olhadinha nos meus repositórios, está cheio de coisa bacana
  </samp>
 </div>
 
 ##
- &nbsp;
-
-<div>
- <a href="https://open.spotify.com/user/31qidjczxezjyrswmiz5effofmai"><img width="180px" align="right" alt="Lucas-spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31qidjczxezjyrswmiz5effofmai&cover_image=true&theme=default&show_offline=false&background_color=1D6667&interchange=false&bar_color=2ebd37&bar_color_cover=true"/></a>
- </div>
-
 
    ```js
    import Developer from "./world.js"
@@ -23,8 +17,7 @@
        nome: "Lucas Viana",
        idade: 22,
        pronome: "he/him",
-       profissao: "Desenvolvedor Full Stack",
-       escola: "Driven Education",
+       profissao: "DevOps Engineer",
        endereco: "Volta Redonda-RJ",
        hobbies: "ouvir musica, pedalar e aprender",
        funfact: "Fã de um pagode"
@@ -68,10 +61,33 @@
 
 
   ### ⚒️ Stack
+
+-   _**Dev-ops**_
+    <p>
+      <img alt="Amazon AWS" src="https://img.shields.io/static/v1?message=Amazon AWS&logo=amazonwebservices&labelColor=232F3E&color=232F3E&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Google Cloud" src="https://img.shields.io/static/v1?message=Google Cloud&logo=googlecloud&labelColor=4285F4&color=4285F4&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+      <img alt="Terraform" src="https://img.shields.io/static/v1?message=Terraform&logo=terraform&labelColor=844FBA&color=844FBA&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Open Tofu" src="https://img.shields.io/static/v1?message=Open Tofu&logo=opentofu&labelColor=FFDA18&color=FFDA18&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Kubernetes" src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&labelColor=326CE5&color=326CE5&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+      <img alt="Github Actions" src="https://img.shields.io/static/v1?message=GitHub Actions&logo=GitHubActions&labelColor=2088FF&color=2088FF&logoColor=white&label=%20&style=for-the-badge">
+    </p>
+-   _**Bancos de dados**_
+    <p>
+      <img alt="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">    
+      <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Redis" src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+      <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+      <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
+    </p>
+
+    
 -   _**Linguagens**_
     <p>
-      <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="CSS 3" src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&  labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge">
       <img alt="TypeScript" src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -96,32 +112,11 @@
     <p>
       <img height="28em" alt="React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </p>
-
--   _**Bancos de dados**_
-    <p>
-      <img alt="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">    
-      <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Redis" src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge">
-    </p>
-
+    
 -   _**Testes**_
     <p>
       <img alt="Jest" src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge">
-    </p>
-
--   _**Dev-ops**_
-    <p>
-      <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Amazon EC2" src="https://img.shields.io/static/v1?message=Amazon EC2&logo=AmazonEC2&labelColor=FF9900&color=FF9900&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Github Actions" src="https://img.shields.io/static/v1?message=GitHub Actions&logo=GitHubActions&labelColor=2088FF&color=2088FF&logoColor=white&label=%20&style=for-the-badge">
-    </p>
-
--   _**Deploy**_
-    <p>
-      <img alt="Amazon AWS" src="https://img.shields.io/static/v1?message=Amazon AWS&logo=Amazon AWS&labelColor=232F3E&color=232F3E&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Vercel" src="https://img.shields.io/static/v1?message=Vercel&logo=Vercel&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Heroku" src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=430098&color=430098&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
 -   _**Ferramentas**_
