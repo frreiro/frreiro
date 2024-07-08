@@ -11,11 +11,11 @@
 ##
 
    ```js
-   import Developer from "./world.js"
+   import DevOps from "./world.js"
    
-   const Frreiro = new Developer({
+   const Frreiro = new DevOps({
        nome: "Lucas Viana",
-       idade: 22,
+       idade: 23,
        pronome: "he/him",
        profissao: "DevOps Engineer",
        endereco: "Volta Redonda-RJ",
